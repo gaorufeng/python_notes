@@ -1,4 +1,4 @@
-# python_tech
+# python_notes
 
 这里是python 学习的地方
 
